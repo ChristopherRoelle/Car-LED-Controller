@@ -1,0 +1,6 @@
+Name: Flash
+FrontLeft, FrontRight, RearLeft, RearRight, FrameDuration(MS)
+========= Write Animation Below =========
+
+1, 1, 1, 1, 500
+0, 0, 0, 0, 500

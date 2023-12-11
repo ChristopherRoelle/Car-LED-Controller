@@ -1,0 +1,27 @@
+Name: Drift Boy Swag
+FrontLeft, FrontRight, RearLeft, RearRight, FrameDuration(MS)
+========= Write Animation Below =========
+
+#3 quick fr, rl
+1, 0, 0, 1, 100
+0, 0, 0, 0, 50
+
+1, 0, 0, 1, 100
+0, 0, 0, 0, 50
+
+1, 0, 0, 1, 100
+
+#wait 1 sec (off)
+0, 0, 0, 0, 100
+
+#3 quick fl, rr
+0, 1, 1, 0, 100
+0, 0, 0, 0, 50
+
+0, 1, 1, 0, 100
+0, 0, 0, 0, 50
+
+0, 1, 1, 0, 100
+
+#wait 1 sec (off)
+0, 0, 0, 0, 100

@@ -1,0 +1,14 @@
+Name: Template
+FrontLeft, FrontRight, RearLeft, RearRight, FrameDuration(MS)
+========= Write Animation Below =========
+
+#Write the file like so:
+1, 1, 1, 1, 500
+0, 0, 0, 0, 500
+
+#First 4 digits are the status:
+# 0 is OFF
+# 1 is ON
+
+#Last digit is FrameDuration in MS
+

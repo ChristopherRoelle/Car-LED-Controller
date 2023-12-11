@@ -1,0 +1,6 @@
+Name: Alternate
+FrontLeft, FrontRight, RearLeft, RearRight, FrameDuration(MS)
+========= Write Animation Below =========
+
+1, 0, 0, 1, 100
+0, 1, 1, 0, 100
